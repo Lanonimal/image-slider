@@ -1,0 +1,1 @@
+image slider, didn't work with script in the head, even not with defer, so i had to move the script to the bottom of the body. 
